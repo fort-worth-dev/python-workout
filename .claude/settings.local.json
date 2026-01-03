@@ -10,7 +10,8 @@
       "Bash(pytest:*)",
       "Bash(ruff:*)",
       "Bash(ruff check:*)",
-      "Bash(mypy:*)"
+      "Bash(mypy:*)",
+      "Bash(cat:*)"
     ]
   }
 }

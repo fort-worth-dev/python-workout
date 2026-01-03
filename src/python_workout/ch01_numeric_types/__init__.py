@@ -10,4 +10,6 @@ integers, floats, and basic arithmetic operations. Topics include:
 - Type conversions and formatting
 """
 
-__all__ = []
+from python_workout.ch01_numeric_types.ex01_guessing_game import guessing_game
+
+__all__ = ["guessing_game"]
